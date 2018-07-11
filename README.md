@@ -1,4 +1,4 @@
-barometer
+Barometer
 =======
 
 #### Table of Contents
